@@ -6,7 +6,7 @@ This is a (relatively) simple list of movies that "people like me" tend to enjoy
 I'll totally accept pull requests, but don't be surprised if I am slow to respond to them and/or reject them for arbitrary reasons.  A democracy this is not ;) however I am not, usually, an asshole, though I'm sure some people would disagree.  There is no "code of conduct" and all that, but let's keep it civil (for a definition of "civil" I will determine arbitrarily and not define anywhere ;)
 
 |Title | Genre | Notes |
-------------------------
+-------|-------|-------|
 The 13th Floor | SciFi |
 Dark City | SciFi |
 Lord of Illusions | SciFi/Horror |
